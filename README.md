@@ -1,4 +1,4 @@
-# Graduation-Project
+# Graduation-Project <완성 후 업로드 된 프로젝트임>
 인터넷 뉴스를 자동으로 요약하여 카드뉴스로 보여주고 기사를 추천해주는 앱입니다.
 
 1. 수행배경
